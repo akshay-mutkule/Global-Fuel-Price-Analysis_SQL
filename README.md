@@ -1,4 +1,5 @@
 🌍 Global Fuel Price Analysis (SQL Project)
+
 📌 Project Overview
 
 This project presents a structured SQL-based analysis of global fuel price data. The objective is to explore pricing patterns, regional disparities, and economic implications using advanced SQL queries and analytical techniques.
