@@ -1,101 +1,227 @@
-🌍 Global Fuel Price Analysis (SQL Project)
+# ⛽ Global Fuel Price Analytics
 
+<div align="center">
 
-📌 Project Overview
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Global+Fuel+Price+Analytics;SQL+%7C+Python+%7C+Power+BI;Data+Analysis+%26+Predictive+Insights;Turning+Raw+Data+Into+Business+Intelligence" />
 
-This project presents a structured SQL-based analysis of global fuel price data. The objective is to explore pricing patterns, regional disparities,
+<p>
+<img src="https://img.shields.io/github/stars/akshay-mutkule/Global-Fuel-Price-Analytics?style=for-the-badge"/>
+<img src="https://img.shields.io/github/forks/akshay-mutkule/Global-Fuel-Price-Analytics?style=for-the-badge"/>
+<img src="https://img.shields.io/github/license/akshay-mutkule/Global-Fuel-Price-Analytics?style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/akshay-mutkule/Global-Fuel-Price-Analytics?style=for-the-badge"/>
+</p>
 
-and economic implications using advanced SQL queries and analytical techniques.
+---
 
-The analysis focuses on transforming raw fuel price data into meaningful business insights through aggregation, ranking, and comparative evaluation.
+### 📊 End-to-End Data Analytics Project
 
+**SQL • Python • Jupyter Notebook • Power BI**
 
-🎯 Objectives
+</div>
 
+---
 
-Identify countries with the highest and lowest fuel prices
+# 📌 Project Overview
 
-Compute global and regional average fuel prices
+Global Fuel Price Analytics is a comprehensive data analytics project that explores worldwide fuel price trends using SQL, Python, and Power BI.
 
-Analyze price distribution categories (Low, Medium, High)
+The project demonstrates the complete analytics workflow:
 
-Rank countries using window functions
+* Data Collection
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* SQL-Based Business Queries
+* Interactive Dashboard Development
+* Trend Analysis
+* Predictive Insights
 
-Measure global price volatility
+---
 
-Generate executive-level insights from structured data
+# 🎯 Objectives
 
+* Analyze historical fuel price data
+* Discover country-wise fuel price patterns
+* Compare gasoline and diesel prices
+* Identify price fluctuations over time
+* Generate business insights using SQL
+* Build interactive Power BI dashboards
+* Predict future fuel price trends using Python
 
-🛠️ Tools & Technologies
+---
 
-MySQL
+# 🛠 Tech Stack
 
-Structured Query Language (SQL)
+| Technology       | Purpose                          |
+| ---------------- | -------------------------------- |
+| SQL              | Data Analysis & Business Queries |
+| Python           | Data Cleaning & Prediction       |
+| Pandas           | Data Manipulation                |
+| NumPy            | Numerical Computing              |
+| Matplotlib       | Visualization                    |
+| Jupyter Notebook | Analysis Environment             |
+| Power BI         | Dashboard & Reporting            |
 
-Aggregate Functions (AVG, MAX, MIN, COUNT)
+---
 
-Window Functions (RANK, PARTITION BY)
+# 📂 Repository Structure
 
-Data Interpretation & Business Analysis
-
-
-🗂️ Project Structure
-
-
-global-fuel-price-analysis/
-
-
-├── queries.sql              # All analytical SQL queries
-
-├── dataset/                 # Fuel price dataset
-
-├── presentation/            # Final project PPT
-
+```text
+Global-Fuel-Price-Analytics
+│
+├── SQL/
+│   ├── Database.sql
+│   ├── Queries.sql
+│
+├── Python/
+│   ├── Global Fuel Price Analysis.ipynb
+│
+├── Dataset/
+│   ├── cleaned_GFPA.csv
+│   ├── global_fuelprice_analysis.csv
+│
+├── Dashboard/
+│
+├── Images/
+│
 └── README.md
+```
 
+---
 
+# 📈 Project Workflow
 
+```text
+Raw Dataset
+      │
+      ▼
+Data Cleaning
+      │
+      ▼
+Exploratory Data Analysis
+      │
+      ▼
+SQL Business Queries
+      │
+      ▼
+Data Visualization
+      │
+      ▼
+Power BI Dashboard
+      │
+      ▼
+Trend Prediction
+```
 
-📊 Key Analytical Insights
+---
 
+# 📊 Key Analysis
 
-Significant global price variation exists due to taxation and subsidy policies.
+✔ Fuel price comparison by country
 
-European countries show consistently higher fuel prices driven by regulatory frameworks.
+✔ Global average fuel prices
 
-Oil-producing nations maintain lower domestic prices through government intervention.
+✔ Highest & lowest fuel price countries
 
-Price volatility reflects geopolitical and economic diversity across regions.
+✔ Price distribution analysis
 
+✔ Correlation analysis
 
+✔ Time-series trend visualization
 
-📈 Sample SQL Query
+✔ Future fuel price prediction
 
-SELECT region, ROUND(AVG(price_usd),2) AS Avg_Price
-FROM fuel_prices
-GROUP BY region
-ORDER BY Avg_Price DESC;
+---
 
+# 📸 Dashboard Preview
 
-This query computes the regional average fuel price to compare macro-level pricing trends.
+> 📌 Add your Power BI dashboard screenshots here.
 
+```
+Images/
+ ├── Dashboard-1.png
+ ├── Dashboard-2.png
+ └── Dashboard-3.png
+```
 
+---
 
-💼 Business Impact
+# 🚀 Features
 
-Understanding global fuel price structures helps evaluate:
+* End-to-End Analytics Project
+* SQL Business Intelligence Queries
+* Python Data Analysis
+* Power BI Interactive Dashboard
+* Cleaned Dataset Included
+* Predictive Analytics
+* Well-Structured Repository
+* Recruiter-Friendly Documentation
 
-Inflationary pressure across economies
-Transportation and logistics cost implications
-Policy-driven price variations
-Energy market competitiveness
+---
 
-This project demonstrates the ability to derive strategic insights using structured database queries — a critical skill in data analytics and data science.
+# 📚 Skills Demonstrated
 
+* Data Cleaning
+* SQL
+* Data Analysis
+* Business Intelligence
+* Dashboard Development
+* Exploratory Data Analysis
+* Data Visualization
+* Trend Analysis
+* Predictive Analytics
+* Problem Solving
 
-🚀 Author
+---
 
-Akshay Mutkule
+# 📈 Future Improvements
 
+* Machine Learning Forecasting
+* Streamlit Dashboard
+* API Integration
+* Automated ETL Pipeline
+* Real-Time Fuel Price Tracking
 
-Aspiring Data Scientist | SQL & Data Analytics Enthusiast
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push your branch
+5. Open a Pull Request
+
+---
+
+# ⭐ Support
+
+If you found this project useful,
+
+⭐ Star this repository
+
+🍴 Fork it
+
+📢 Share it
+
+---
+
+# 👨‍💻 Author
+
+**Akshay Mutkule**
+
+💼 Data Analyst | SQL Developer | Python Developer
+
+* GitHub: https://github.com/akshay-mutkule
+* LinkedIn: https://www.linkedin.com/in/contact-akshay-mutkule/
+
+---
+
+<div align="center">
+
+### ⭐ If you like this project, don't forget to Star it!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0072FF&height=120&section=footer"/>
+
+</div>
