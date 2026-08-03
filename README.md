@@ -5,10 +5,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Global+Fuel+Price+Analytics;SQL+%7C+Python+%7C+Power+BI;Data+Analysis+%26+Predictive+Insights;Turning+Raw+Data+Into+Business+Intelligence" />
 
 <p>
-<img src="https://img.shields.io/github/stars/akshay-mutkule/Global-Fuel-Price-Analytics?style=for-the-badge"/>
-<img src="https://img.shields.io/github/forks/akshay-mutkule/Global-Fuel-Price-Analytics?style=for-the-badge"/>
-<img src="https://img.shields.io/github/license/akshay-mutkule/Global-Fuel-Price-Analytics?style=for-the-badge"/>
-<img src="https://img.shields.io/github/last-commit/akshay-mutkule/Global-Fuel-Price-Analytics?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/akshay-mutkule/Global-Fuel-Price-Analysis-Project?style=for-the-badge"/>
+<img src="https://img.shields.io/github/forks/akshay-mutkule/Global-Fuel-Price-Analysis-Project?style=for-the-badge"/>
+<img src="https://img.shields.io/github/license/akshay-mutkule/Global-Fuel-Price-Analysis-Project?style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/akshay-mutkule/Global-Fuel-Price-Analysis-Project?style=for-the-badge"/>
 </p>
 
 ---
